@@ -14,8 +14,7 @@ for (let x in nums) {
 	console.log(`${x} = ${nums[x]}`)
 }
 
-externo:
-for (let a in nums) {
+externo: for (let a in nums) {
 	for (let b in nums) {
 		if (a == 2 && b == 3) {
 			break externo

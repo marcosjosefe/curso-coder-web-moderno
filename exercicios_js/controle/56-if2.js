@@ -1,4 +1,4 @@
-function teste1(num) {
+ function teste1(num) {
 	if (num > 7) // If sem bloco considerasse apenas uma linha.
 		console.log(num)
 
