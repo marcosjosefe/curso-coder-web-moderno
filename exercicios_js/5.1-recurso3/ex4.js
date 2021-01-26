@@ -1,5 +1,5 @@
 function divisao(divisor, dividendo) {
-	return `${divisor} / ${dividendo} = ${divisor/dividendo}
+	return `${divisor} / ${dividendo} = ${Math.floor(divisor/dividendo)}
 	resto: ${divisor%dividendo}`
 }
 
