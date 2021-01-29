@@ -12,7 +12,7 @@ X'' = ${x2}`)
 
 bhaskara(2, -10, 8)
 console.log("-----Fim!-----")
-bhaskara(1, 8, -9)
+bhaskara(1, 8, -9)b
 console.log("-----Fim!-----")
 bhaskara(1, 2, 3)
 console.log("-----Fim!-----")
